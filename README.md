@@ -1,4 +1,15 @@
-### Hi there 👋
+### Dongyeon Park(@plzfday) 👋
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plzfday)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 I’m currently working on
+* University of Warwick sice 2020
+### 🌱 I’m currently learning
+* C++, Rust, Python
+* Algorithm
+* Mathematics
+* Machine learning
+### 📫 How to reach me
+qkrehddus01 at gmail.com
 
 <!--
 **plzfday/plzfday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

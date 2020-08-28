@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plzfday)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔭 I’m currently working on
-* University of Warwick sice 2020
+* University of Warwick since 2020
 ### 🌱 I’m currently learning
 * C++, Rust, Python
 * Algorithm

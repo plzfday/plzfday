@@ -1,13 +1,11 @@
 ### Dongyeon Park(@plzfday) 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plzfday)](https://github.com/anuraghazra/github-readme-stats)
-### 🔭 I’m currently working on
-* University of Warwick since 2020
+### 🔭 I’m studying at
+* University of Warwick International Foundation Programme since 2020
 ### 🌱 I’m currently learning
-* C++, Rust, Python
-* Algorithm
+* Rust, Python
 * Mathematics
-* Machine learning
 ### 📫 How to reach me
 qkrehddus01 at gmail.com
 

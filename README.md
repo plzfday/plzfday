@@ -15,7 +15,7 @@
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plzfday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehddus01)](https://solved.ac/qkrehddus01)  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=plzfday)](https://solved.ac/plzfday)  
 [![plzfday's github stats](https://github-readme-stats.vercel.app/api?username=plzfday&)](https://github.com/anuraghazra/github-readme-stats)
 
 
